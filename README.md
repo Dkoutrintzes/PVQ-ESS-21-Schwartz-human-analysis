@@ -41,7 +41,9 @@ For the Visualization, the code created a localhost site containing a scanner gr
 
 ---
 [1] https://scholarworks.gvsu.edu/cgi/viewcontent.cgi?filename=0&article=1173&context=orpc&type=additional&preview_mode=1
+
 [2] Schwartz, Shalom H. "An overview of the Schwartz theory of basic values." Online readings in Psychology and Culture 2.1 (2012): 11.
+
 [3] *** To be added
 
 
