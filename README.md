@@ -1,4 +1,4 @@
-# PVQ-ESS-21-Schwartz-human-values-extraction
+# PVQ-ESS-21-Schwartz-human-analysis
  This GitHub contains an analysis of the PVQ(ESS) 21 data. The analysis of the questionnaire is based on the Scoring and Analysis Instructions for the ESS21 Value Scale [1]
 The questionnaire includes 21 items and can generate Schwartz's [2] 10 human values and the 4 high-order values.
 
