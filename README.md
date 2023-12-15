@@ -24,11 +24,11 @@ If there are no labels, the code will request the start and end columns where th
 
 ---
 Analysis.py contains 5 arguments:
-1. Data path : The path to the CSV file
-2. Save path : The path where the export data will be saved
-3. Labeled (True/False) : True if the CSV file contains labels, False if not
-4. Clustering (True/False) : True for running the k-means clustering
-5. Visualization (True/False) : True for visualizing the stats of the clusters
+1. Data path: The path to the CSV file
+2. Save path: The path where the export data will be saved
+3. Labeled (True/False): True if the CSV file contains labels, False if not
+4. Clustering (True/False): True for running the k-means clustering
+5. Visualization (True/False): True for visualizing the stats of the clusters
 
 To run the code execute:
 ```
