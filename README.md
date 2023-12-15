@@ -2,8 +2,6 @@
 Extraction of the Schwartz 10 human values + 4 high motivational values from the PVQ(ESS) 21 questionnaire
 
 
-
-
  ```
       v1 v2 v3  ... v19 v20 v21
 0    6   4   2  ... 6   6   3   
