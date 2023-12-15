@@ -1,5 +1,5 @@
 # PVQ-ESS-21-Schwartz-human-values-extraction
-This GitHub contains an analysis of the PVQ(ESS) 21 data. The analysis of the questionnaire is based on the Scoring and Analysis Instructions for the ESS21 Value Scale [1]
+ This GitHub contains an analysis of the PVQ(ESS) 21 data. The analysis of the questionnaire is based on the Scoring and Analysis Instructions for the ESS21 Value Scale [1]
 The questionnaire includes 21 items and can generate Schwartz's [2] 10 human values and the 4 high-order values.
 
 ---
@@ -8,7 +8,7 @@ To run the scripts first install the required Python packages
 pip install requirements.txt
 ```
 ---
-The Analysis.py runs the main analysis of the data. To run it you must have the data from the questionnaire in a CSV file. 
+ The Analysis.py runs the main analysis of the data. To run it you must have the data from the questionnaire in a CSV file. 
 The analysis also has the option to run a k-means clustering using the 4 high-order values and to visualize the clusters' statistics.
 This code is meant to run even if the CSV file contains other data. In the case of the CSV file containing labels in the first line, the labels of each item must be v+[number of item]. The format of the file must look something like the following:
 
@@ -35,7 +35,7 @@ To run the code execute:
 python Codes\Analysis.py <path to csv> <path to save folder> <labeled> <clustering> <visualization>
 
 ```
-The code will create a CSV file in the save folder containing the 10 human values and the 4 high-order values.
+ The code will create a CSV file in the save folder containing the 10 human values and the 4 high-order values.
 For the clustering, in the export CSV file, there will be a cluster label for each individual and an image will be created with a 2D representation of the clusters
 For the Visualization, the code created a localhost site containing a scanner graph with the 4 high-order values of each cluster.
 
